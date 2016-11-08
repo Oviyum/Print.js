@@ -21,8 +21,5 @@
   },
   "spm": {
     "main": "Print.js"
-  },
-  "browserify": {
-    "transform": [["babelify", { "presets": ["es2015"] }]]
   }
 }
